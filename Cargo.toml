@@ -1,0 +1,7 @@
+[package]
+name = "rust-os"
+version = "0.1.0"
+authors = ["Luka Klacar <lukaklacar@gmail.com>"]
+edition = "2018"
+
+[dependencies]
